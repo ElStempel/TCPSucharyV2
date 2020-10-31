@@ -1,0 +1,10 @@
+C:\Users\stempel\source\repos\TCPserver\TCPserver\obj\Debug\TCPserver.csprojAssemblyReference.cache
+C:\Users\stempel\source\repos\TCPserver\TCPserver\obj\Debug\TCPserver.csproj.CoreCompileInputs.cache
+C:\Users\stempel\source\repos\TCPserver\TCPserver\bin\Debug\TCPserver.exe.config
+C:\Users\stempel\source\repos\TCPserver\TCPserver\bin\Debug\TCPserver.exe
+C:\Users\stempel\source\repos\TCPserver\TCPserver\bin\Debug\TCPserver.pdb
+C:\Users\stempel\source\repos\TCPserver\TCPserver\bin\Debug\TCPserverLibrary.dll
+C:\Users\stempel\source\repos\TCPserver\TCPserver\bin\Debug\TCPserverLibrary.pdb
+C:\Users\stempel\source\repos\TCPserver\TCPserver\obj\Debug\TCPserver.csproj.CopyComplete
+C:\Users\stempel\source\repos\TCPserver\TCPserver\obj\Debug\TCPserver.exe
+C:\Users\stempel\source\repos\TCPserver\TCPserver\obj\Debug\TCPserver.pdb

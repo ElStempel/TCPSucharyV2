@@ -1,0 +1,6 @@
+C:\Users\stempel\source\repos\TCPserver\TCPserverLibrary\obj\Debug\TCPserverLibrary.csprojAssemblyReference.cache
+C:\Users\stempel\source\repos\TCPserver\TCPserverLibrary\obj\Debug\TCPserverLibrary.csproj.CoreCompileInputs.cache
+C:\Users\stempel\source\repos\TCPserver\TCPserverLibrary\bin\Debug\TCPserverLibrary.dll
+C:\Users\stempel\source\repos\TCPserver\TCPserverLibrary\bin\Debug\TCPserverLibrary.pdb
+C:\Users\stempel\source\repos\TCPserver\TCPserverLibrary\obj\Debug\TCPserverLibrary.dll
+C:\Users\stempel\source\repos\TCPserver\TCPserverLibrary\obj\Debug\TCPserverLibrary.pdb
